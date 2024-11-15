@@ -1,0 +1,1 @@
+sudo docker pull nvcr.io/nvidia/tritonserver:24.10-py3
